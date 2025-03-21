@@ -17,10 +17,10 @@ This Snowflake Account Usage Dashboard provides a detailed view of your account'
 # Features
 The dashboard is organized into four main tabs:
 
-    # 1. Consumption Dashboard
-    
-    1. Track credit usage across different service types
-    2. Visualize daily credit consumption trends
-    3. Monitor warehouse-specific credit usage
-    4. Analyze cloud services utilization by query type
-    5. Review monthly credit billing history
+# 1. Consumption Dashboard
+
+1. Track credit usage across different service types
+2. Visualize daily credit consumption trends
+3. Monitor warehouse-specific credit usage
+4. Analyze cloud services utilization by query type
+5. Review monthly credit billing history
