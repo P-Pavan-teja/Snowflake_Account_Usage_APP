@@ -64,13 +64,13 @@ snowflake-snowpark-python
 # Date Filtering
 The dashboard allows filtering data by various timeframes:
 
-Yesterday
-Last 7 Days
-Last Month
-Last 3 Months
-Last 6 Months
-Last Year
-All Time
+Yesterday,
+Last 7 Days,
+Last Month,
+Last 3 Months,
+Last 6 Months,
+Last Year,
+All Time,
 Custom Date Range
 
 # Acknowledgements
