@@ -1,4 +1,4 @@
-## Snowflake Account Usage Dashboard
+# Snowflake Account Usage Dashboard
 A comprehnsive Streamlit application for monitoring and analyzing your Snowflake account usage across multiple dimensions.
 
 ![image](https://github.com/user-attachments/assets/ade074c1-89c1-4819-b95d-0c15b1091e74)
@@ -11,8 +11,10 @@ A comprehnsive Streamlit application for monitoring and analyzing your Snowflake
 
 ![image](https://github.com/user-attachments/assets/0db0a285-71ef-4a94-810e-6bb9779ccf21)
 
-#Overview
-    This Snowflake Account Usage Dashboard provides a detailed view of your account's consumption, user activity, storage metrics, and performance statistics. The application leverages Snowflake's account_usage views to deliver actionable insights through an interactive Streamlit interface.
+# Overview
+This Snowflake Account Usage Dashboard provides a detailed view of your account's consumption, user activity, storage metrics, and performance statistics. The application leverages Snowflake's account_usage views to deliver actionable insights through an interactive Streamlit interface.
 
-#Features
+# Features
 The dashboard is organized into four main tabs:
+
+    # 1. Consumption Dashboard
